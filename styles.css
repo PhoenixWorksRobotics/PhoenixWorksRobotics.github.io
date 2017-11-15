@@ -16,9 +16,8 @@ a.btn {
     text-shadow: black 0em 0em 0em;
 }
 
-.logo {
-    width: 100px;
-    height: 160px;
+.img-fluid {
+    max-width: 100px;
 }
 
 .btn-primary {
