@@ -28,3 +28,14 @@ a.btn {
     background-color: #941311;
     border-color: #941311;
 }
+
+@media screen and (max-height: 680px) {
+    .jumbotron {
+        padding-top: 30px;
+    }
+}
+@media screen and (max-height: 560px) {
+    .jumbotron {
+        padding-top: 10px;
+    }
+}
