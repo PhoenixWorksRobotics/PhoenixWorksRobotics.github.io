@@ -1,0 +1,31 @@
+.jumbotron {
+    margin-bottom: 0px;
+    background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url('./bground.JPG');
+    height: 100vh;    
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-shadow: black 0.3em 0.3em 0.3em;
+    text-align:center;
+    padding-top: 100px;
+    border-radius: 0rem;
+}
+
+a.btn {
+    text-shadow: black 0em 0em 0em;
+}
+
+.logo {
+    width: 100px;
+    height: 100px;
+}
+
+.btn-primary {
+    background-color: #600b0a;
+    border-color: #600b0a;
+}
+.btn-primary:hover {
+    background-color: #941311;
+    border-color: #941311;
+}
